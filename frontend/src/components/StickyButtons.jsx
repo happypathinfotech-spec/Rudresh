@@ -59,12 +59,8 @@ const StickyButtons = () => {
         </a>
       </div>
 
-      {/* Sticky Footer Bar - Mobile Only */}
-      <div
-        className={`fixed bottom-0 left-0 right-0 z-50 md:hidden bg-white border-t-2 border-gray-200 shadow-2xl transition-transform duration-300 ${
-          isVisible ? "translate-y-0" : "translate-y-full"
-        }`}
-      >
+      {/* Sticky Footer Bar - Mobile Only - Always Visible */}
+      <div className="fixed bottom-0 left-0 right-0 z-50 md:hidden bg-white border-t-2 border-gray-200 shadow-2xl">
         <div className="px-4 py-3">
           <p className="text-center text-sm font-bold text-gray-900 mb-3">
             Book a Cab Now
@@ -74,14 +70,14 @@ const StickyButtons = () => {
               href={CONTACT_INFO.whatsappLink}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex-1 flex items-center justify-center gap-2 bg-green-600 text-white py-3 rounded-full font-bold hover:bg-green-700 transition-colors duration-300 shadow-md"
+              className="flex-1 flex items-center justify-center gap-2 bg-green-600 text-white py-3 rounded-full font-bold hover:bg-green-700 transition-colors duration-300 shadow-md active:scale-95"
             >
               <MessageCircle className="w-5 h-5" />
               WhatsApp
             </a>
             <a
               href={`tel:${CONTACT_INFO.phone}`}
-              className="flex-1 flex items-center justify-center gap-2 bg-blue-600 text-white py-3 rounded-full font-bold hover:bg-blue-700 transition-colors duration-300 shadow-md"
+              className="flex-1 flex items-center justify-center gap-2 bg-blue-600 text-white py-3 rounded-full font-bold hover:bg-blue-700 transition-colors duration-300 shadow-md active:scale-95"
             >
               <Phone className="w-5 h-5" />
               Call
