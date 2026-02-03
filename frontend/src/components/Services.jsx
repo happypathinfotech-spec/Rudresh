@@ -57,7 +57,7 @@ const Services = () => {
         </div>
 
         {/* Service Images */}
-        <div className="grid md:grid-cols-3 gap-6">
+        <div className="grid md:grid-cols-2 gap-6 max-w-4xl mx-auto">
           <div className="relative rounded-2xl overflow-hidden shadow-lg group">
             <img
               src={IMAGES.services.taxi}
@@ -77,17 +77,6 @@ const Services = () => {
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex items-end p-6">
               <p className="text-white font-bold text-lg">Airport Transfer</p>
-            </div>
-          </div>
-          
-          <div className="relative rounded-2xl overflow-hidden shadow-lg group">
-            <img
-              src={IMAGES.services.professional}
-              alt="Professional service"
-              className="w-full h-64 object-cover group-hover:scale-110 transition-transform duration-500"
-            />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex items-end p-6">
-              <p className="text-white font-bold text-lg">Expert Drivers</p>
             </div>
           </div>
         </div>

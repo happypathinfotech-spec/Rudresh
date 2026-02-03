@@ -61,18 +61,18 @@ const About = () => {
             </div>
 
             {/* Stats */}
-            <div className="grid grid-cols-3 gap-6">
-              <div className="text-center p-4 bg-blue-50 rounded-xl border border-blue-200">
-                <p className="text-3xl font-bold text-blue-600 mb-1">1000+</p>
-                <p className="text-sm text-gray-600 font-medium">Happy Tourists</p>
+            <div className="grid grid-cols-3 gap-4">
+              <div className="text-center p-3 bg-blue-50 rounded-xl border border-blue-200">
+                <p className="text-2xl md:text-3xl font-bold text-blue-600 mb-1">1000+</p>
+                <p className="text-xs md:text-sm text-gray-600 font-medium leading-tight">Happy Tourists</p>
               </div>
-              <div className="text-center p-4 bg-green-50 rounded-xl border border-green-200">
-                <p className="text-3xl font-bold text-green-600 mb-1">24/7</p>
-                <p className="text-sm text-gray-600 font-medium">Available</p>
+              <div className="text-center p-3 bg-green-50 rounded-xl border border-green-200">
+                <p className="text-2xl md:text-3xl font-bold text-green-600 mb-1">24/7</p>
+                <p className="text-xs md:text-sm text-gray-600 font-medium leading-tight">Available</p>
               </div>
-              <div className="text-center p-4 bg-orange-50 rounded-xl border border-orange-200">
-                <p className="text-3xl font-bold text-orange-600 mb-1">5+ Years</p>
-                <p className="text-sm text-gray-600 font-medium">Experience</p>
+              <div className="text-center p-3 bg-orange-50 rounded-xl border border-orange-200">
+                <p className="text-2xl md:text-3xl font-bold text-orange-600 mb-1">5+</p>
+                <p className="text-xs md:text-sm text-gray-600 font-medium leading-tight">Years Exp</p>
               </div>
             </div>
           </div>
