@@ -22,7 +22,7 @@ const PrivacyPolicy = () => {
           <section>
             <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Introduction</h2>
             <p>
-              Welcome to NorthGoaTaxi.in. We respect your privacy and are committed to protecting your personal data. 
+              Welcome to NorthGoaTaxi.com. We respect your privacy and are committed to protecting your personal data. 
               This privacy policy will inform you about how we handle your personal data when you use our taxi booking services.
             </p>
           </section>

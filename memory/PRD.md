@@ -1,8 +1,8 @@
 # Product Requirements Document (PRD)
-## NorthGoaTaxi.in - Landing Page
+## NorthGoaTaxi.com - Landing Page
 
 ### Project Overview
-**Product Name:** NorthGoaTaxi.in  
+**Product Name:** NorthGoaTaxi.com  
 **Type:** High-converting landing page for taxi service in Goa  
 **Target Audience:** Tourists visiting Goa for vacation  
 **Primary Goal:** Generate bookings via Call (+91 9168754481) and WhatsApp  
@@ -10,12 +10,12 @@
 ---
 
 ## Original Problem Statement
-Create a high-converting, modern landing page for NorthGoaTaxi.in — a professional cab service in Goa targeting tourists visiting for vacation. The website should convert visitors into bookings via Call and WhatsApp quickly and easily.
+Create a high-converting, modern landing page for NorthGoaTaxi.com — a professional cab service in Goa targeting tourists visiting for vacation. The website should convert visitors into bookings via Call and WhatsApp quickly and easily.
 
 ### User Choices/Inputs
 - **Images:** AI image selection for professional stock photos
 - **Background:** White background
-- **Business Details:** Phone: +91 9168754481, Website: NorthGoaTaxi.in, Marketing Partner: Seven9Digital
+- **Business Details:** Phone: +91 9168754481, Website: NorthGoaTaxi.com, Marketing Partner: Seven9Digital
 - **Features:** No pricing section - focus on calls and WhatsApp messages
 
 ---

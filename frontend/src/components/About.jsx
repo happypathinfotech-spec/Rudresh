@@ -20,7 +20,7 @@ const About = () => {
             </h2>
             
             <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-              Welcome to <span className="font-bold text-blue-600">NorthGoaTaxi.in</span> – your reliable companion for exploring the beautiful beaches, historic sites, and vibrant culture of Goa. We specialize in providing comfortable, safe, and affordable taxi services to tourists visiting this paradise.
+              Welcome to <span className="font-bold text-blue-600">NorthGoaTaxi.com</span> – your reliable companion for exploring the beautiful beaches, historic sites, and vibrant culture of Goa. We specialize in providing comfortable, safe, and affordable taxi services to tourists visiting this paradise.
             </p>
             
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">

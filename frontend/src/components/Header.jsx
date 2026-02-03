@@ -33,7 +33,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center">
             <h1 className="text-2xl md:text-3xl font-bold text-blue-600">
-              NorthGoaTaxi<span className="text-orange-500">.in</span>
+              NorthGoaTaxi<span className="text-orange-500">.com</span>
             </h1>
           </div>
 

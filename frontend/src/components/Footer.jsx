@@ -14,7 +14,7 @@ const Footer = () => {
           {/* Brand Section */}
           <div>
             <h3 className="text-2xl font-bold mb-4">
-              NorthGoaTaxi<span className="text-orange-500">.in</span>
+              NorthGoaTaxi<span className="text-orange-500">.com</span>
             </h3>
             <p className="text-gray-400 mb-6 leading-relaxed">
               Your trusted travel partner in Goa. Providing reliable, comfortable, and affordable taxi services for tourists 24/7.
@@ -114,10 +114,10 @@ const Footer = () => {
                 <Mail className="w-5 h-5 text-blue-400 flex-shrink-0 mt-1" />
                 <div>
                   <a
-                    href="mailto:info@northgoataxi.in"
+                    href="mailto:info@northgoataxi.com"
                     className="text-gray-400 hover:text-white transition-colors duration-300"
                   >
-                    info@northgoataxi.in
+                    info@northgoataxi.com
                   </a>
                 </div>
               </li>
@@ -137,7 +137,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-gray-400 text-sm text-center md:text-left">
-              © {currentYear} NorthGoaTaxi.in. All rights reserved.
+              © {currentYear} NorthGoaTaxi.com. All rights reserved.
             </p>
             <div className="flex items-center gap-6 text-sm">
               <Link
