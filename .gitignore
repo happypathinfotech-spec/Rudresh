@@ -26,7 +26,7 @@ next-env.d.ts
 *.tsbuildinfo
 
 # Production builds
-/build
+# /build - Commenting out to allow frontend/build to be committed for static hosting
 dist/
 dist
 
